@@ -1,0 +1,21 @@
+nav{
+    align-items: center;
+    background-color: #212121;
+    color: #fff;
+    display: flex;
+    height: 50%;
+    min-height: 40px;
+    padding: 0 ;
+    
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+.card-body{
+    width: ;
+    height: ;
+}
+.card{
+    display: flex;
+}
